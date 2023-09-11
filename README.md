@@ -12,5 +12,6 @@ additional CKAN links:
 [ckan install info](https://github.com/ckan/ckan-docker#install-ckan-plus-dependencies)
 
 Todo:
-- create react app
-- step by step guide on NRD API pull
+- create react app ✔️
+- step by step guide on NRD API pull (code demo and CKAN source doc displays necessary info) ✔️
+- install ubuntu lts (need flash drive) for CKAN install ❌ 
